@@ -1,4 +1,4 @@
-![logo](https://github.com/codewithmoiz/codewithmoiz/blob/main/Banner.jpg)
+![logo](https://github.com/Rehan74888/Rehan74888/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rehan</h1>
 <h3 align="center">A passionate frontend developer from Karachi, Pakistan</h3>
 
